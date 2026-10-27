@@ -1,0 +1,6 @@
+name: PlaypenChestShops
+version: '${version}'
+
+main: com.squeakyllama.playpenChestShops.PlaypenChestShops
+api-version: '26.3'
+load: POSTWORLD

@@ -1,2 +1,2 @@
-# PlaypenCraft
-Client mods and server plugins for Minecraft developed by Playpen Technologies
+# PlaypenChestShops
+This plugin is under development.
